@@ -1,6 +1,3 @@
-
-
-
 import streamlit as st
 import os  # Import the os module
 from langchain.chat_models import ChatOpenAI
