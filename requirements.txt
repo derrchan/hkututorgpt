@@ -1,4 +1,1 @@
-openai
-langchain
-streamlit
-pydantic<2
+
