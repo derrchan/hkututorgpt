@@ -63,7 +63,7 @@ lesson_type = st.sidebar.radio("Select Lesson Type", ["Instructions based lesson
 if st.session_state.get("current_lesson") != lesson_selection or st.session_state.get("current_lesson_type") != lesson_type:
     st.session_state["current_lesson"] = lesson_selection
     st.session_state["current_lesson_type"] = lesson_type
-    st.session_state["messages"] = [AIMessage(content="Welcome! These short courses will help you understand the most common things you will see on the wards!")]
+    st.session_state["messages"] = [AIMessage(content="Welcome! These short courses will help you understand the most common things you will see on the wards.Let me know when you're all set to jump in!")]
 
 # Display lesson name and description
 st.markdown(f"**{lesson_selection}**")
