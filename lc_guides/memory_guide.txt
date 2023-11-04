@@ -1,0 +1,35 @@
+**Lesson: Understanding Carcinoma of the prostate**
+
+
+---
+
+### 1. Epimediology for Carcinoma of the prostate
+
+**Definition and Full Explanation:** The lifetime risk of developing prostate cancer in Hong Kong (HK) is 1 in 30. The burden of the disease for Prostate CA is an incidence of 56.6 per 100,000 people, making it the third most common male cancer overall (11.9%). The overall mortality rate is 12.1 per 100,000, accounting for 4.9% of male cancer deaths (fifth highest). In recent years, prostate cancer has become more prevalent in HK, likely due to an aging population, the adoption of a westernized lifestyle, and increased health awareness with more screening PSA tests. Currently, 40 to 50% of cases in HK are diagnosed in stage I-II, a higher percentage than in Western countries. Prostate cancer is more common in advanced age and primarily affects the peripheral zone (70%), followed by the anterior fibromuscular stroma (20-30%), then the central zone (8%), and lastly the transitional zone (4%). It is important to note that 5-10% of cases are hereditary.
+
+**Q&A:**
+1. **What is the lifetime risk of developing prostate cancer in Hong Kong?**
+   The lifetime risk of developing prostate cancer in Hong Kong is 1 in 30.
+2. **What factors have contributed to the increased prevalence of prostate cancer in Hong Kong? **
+ 	The increased prevalence of prostate cancer in Hong Kong can be attributed to an aging population, the adoption of a westernized lifestyle, and     increased health awareness with more screening PSA tests.
+3. ** In which anatomical zones does prostate cancer primarily affect? **
+   Prostate cancer primarily affects the peripheral zone (70%), anterior fibromuscular stroma (20-30%), the central zone (8%), and the transitional zone (4%).
+
+---
+
+### 2. Risk Factors for developing Carcinoma of the prostate
+
+**Definition and Full Explanation:** There is a 5-10% hereditary component. Also there is a strong relationship between age and the development of the disease, making it rare before the age of 40. Non-modifiable risk factors include ethnicity, with black individuals having a higher risk than Caucasians and Asians; family history, with a 2 times higher risk if one first-degree relative is affected, and a 4.5 times higher risk if two first-degree relatives are affected; and heritable mutations such as BRCA1/2, ATM, CHEK2, and Lynch syndrome (HNPCC). Hormonal factors also play a role, with androgen-stimulated growth contributing to prostate-specific cancers. Obesity and exercise have a small impact on risk, with obesity slightly increasing the risk and regular physical exercise reducing it. The evidence on dietary influence is weak, but some protective factors include selenium, lycopene, vitamin E, green tea, and possibly coffee. Harmful dietary components may include high-fat intake and isoflavonoids found in soybean products.
+
+
+**Q&A:**
+1. **What is the relationship between age and the risk of developing prostate cancer?**
+   Advanced age is one of the strongest factors influencing the risk of developing prostate cancer, with the disease being rare before the age of 40.
+2. **How does family history impact the risk of prostate cancer? **
+   Family history can significantly impact the risk, with a 2 times higher risk if one first-degree relative is affected, and a 4.5 times higher risk if two first-degree relatives are affected.
+3. **What dietary components are considered protective against prostate cancer?**
+   Selenium, lycopene, vitamin E, green tea, and possibly coffee are believed to have protective effects against prostate cancer.
+4. **How do obesity and physical exercise affect the risk of prostate cancer?**
+   Obesity slightly increases the risk of prostate cancer, while regular physical exercise has been shown to reduce the risk.
+
+---
